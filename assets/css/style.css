@@ -427,6 +427,20 @@ section .container {
   margin-bottom: 0;
 }
 
+.about-me .content .resume-item strong {
+  color: #fff;
+  border-bottom: 2px solid #00acfc;
+  padding-bottom: 1px;
+}
+
+.img-me {
+  width: 100%;
+  height: auto;
+  border-radius: 30%;
+  overflow: hidden;
+  margin-bottom: 30px;
+}
+
 /*--------------------------------------------------------------
 # Counts
 --------------------------------------------------------------*/
